@@ -1,0 +1,38 @@
+body {
+    background-color: #222;
+    color: #ddd;
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+pre {
+    font-size: 10px;
+    line-height: 10px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+body {
+    background-color: #222;
+    color: #ddd;
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+pre {
+    font-size: 10px;
+    line-height: 10px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
